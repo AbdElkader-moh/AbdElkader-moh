@@ -1,3 +1,25 @@
+<!-- ===========================
+     Abdelkader — README
+=========================== -->
+
+<!-- Gradient Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00CFFF&height=200&section=header&text=Abdelkader&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=40" alt="Header"/>
+</p>
+
+<h3 align="center">🚀 Data Science Enthusiast | Formula Student Engineer | IEEE Volunteer</h3>
+
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20Learning%20Always%20Building;Turning%20Data%20into%20Impact;IEEE%20Volunteer%20%7C%20Formula%20Student;Passionate%20about%20AI%20%26%20ML&font=Fira%20Code&center=true&color=00CFFF&pause=2000">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat&color=007BFF"/> <!-- Profile Views -->
+</p>
+
+---
 # 💡 About Me
 
 Hi there! I’m an aspiring engineer with a passion for **data science, AI, and problem-solving**. My journey has been shaped by both **hands-on technical projects** and **collaborative team experiences**.  
